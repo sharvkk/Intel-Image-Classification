@@ -1,1 +1,2 @@
 # Intel-Image-Classification
+The Intel image classification problem involves categorizing images into different classes using Intel's dataset. The goal is to develop a model that can accurately label images based on their content. This task is typically approached using deep learning techniques, such as convolutional neural networks. By solving this problem, valuable information can be extracted from satellite and aerial imagery for applications like environmental monitoring and urban planning.
